@@ -1,3 +1,3 @@
-#name: thanh
-#year of brith: 1998
+#name: thanh <hr>
+#year of brith: 1998<hr>
 #favorite: tech, hitory,...
